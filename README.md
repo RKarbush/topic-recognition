@@ -1,5 +1,9 @@
 # Topic Recognition
 
+## Considerations
+
+This project was done using the Google Colab notebooks so, the code is adapted to be used in google drive. Despite that, feel free to download the repository and use the code however you wish.
+
 ## Objectives
 
 Identify the main topic/s from texts from a news database. The news are in English and are classified in 5 main topics.
